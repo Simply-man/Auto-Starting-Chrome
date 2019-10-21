@@ -1,0 +1,29 @@
+{
+    "sites": [
+        {
+            "website": "https://poczta.interia.pl",
+            "element": "//*[@id=\"formSubmit\"]"
+        },
+        {
+            "website": "https://jsos.pwr.edu.pl/",
+            "element": "STUDENT",
+            "second_element": "authenticateButton"
+        },
+        {
+            "website": "https://s.student.pwr.edu.pl/iwc_static/c11n/login_student_pwr_edu_pl.html?lang=pl&3.0.1.3.0_16070546&svcs=abs,mail,calendar,c11n",
+            "element": "signin"
+        },
+        {
+            "website": "https://edukacja.pwr.wroc.pl/EdukacjaWeb/studia.do",
+            "element": "//*[@id=\"GORAPORTALU\"]/tbody/tr[4]/td/table/tbody/tr[1]/td[1]/table/tbody/tr[1]/td/table[1]/tbody/tr[7]/td/input"
+        },
+        {
+            "website": "https://youtube.pl",
+            "element": ""
+        },
+        {
+            "website": "https://facebook.com",
+            "element": ""
+        }
+    ]
+}
